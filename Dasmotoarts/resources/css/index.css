@@ -1,0 +1,26 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text: center;
+  background-image: url(file:///C:/Project/Dasmotoarts/resources/img/pattern.jpeg);
+}
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.bru h2 {background-color: mediumspringgreen;}
+.fra h2 {background-color: lightcoral;}
+.pai h2 {background-color: skyblue;}
+p{
+  font-family: Helvetica;
+  font-weight: bold;
+}
+bold{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
